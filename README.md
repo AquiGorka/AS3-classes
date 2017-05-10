@@ -34,7 +34,8 @@ Class that encapsulates database connection and data fetching logic
 ### Model
 Base classes for extending in the app (the most important here being the Section class)
 
-#### License
+
+#### License
 
 The MIT License (MIT)
 
